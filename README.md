@@ -1,4 +1,4 @@
-### dsfdfsg odfhg ufdngiufni un haha pp
+### idk what to put here bc i am very new to github :)
 
 <!--
 **Codey-Games/codey-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
