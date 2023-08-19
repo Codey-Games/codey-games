@@ -1,4 +1,5 @@
 ### i code gorilla tag in c# (badly)
+pls help me get better at this thing ⬇
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codey-games)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
