@@ -1,4 +1,5 @@
-### idk what to put here bc i am very new to github :)
+### i code gorilla tag in c# (badly)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Codey-Games/codey-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
